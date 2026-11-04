@@ -139,17 +139,12 @@ Kết quả: Máy tính được khôi phục, tài khoản được bảo vệ 
 
 ### 3.1. Thu hồi Personal Access Token (Revoke Token)
 
-[Setup Version Control | Fluxscape Docs](https://images.openai.com/static-rsc-4/woVyA-HjsWy76I63b_2UFW2b7d4fuaMdYO40Mua8dI8zm0eGfgSLyhQAy3JQpKCV3kDCIWGv-dhU1VVTucg-PRZARkFwHVb3urHUPpUYeYYUyuRNiTbBPnR7GvpYWlRzF03the4r3uxHgLetK23-wD2siGNjxb5tJ3iG3jpEuss?purpose=inline)
-
-[GitHub Actions using AWS and OpenID](https://images.openai.com/static-rsc-4/AZi36s4nKdq0Cz3sWTaLFhzyrgxkRTL9OpsTMa4l3XyVN8nBWp4w-Z5azKV2smHrwLSDOhuxs4bOtqP9PHqaNksAANXOZwHsYvNzdAdIJCJJl0LBFIkMWPqmX7NqGnQfnh8FTsC-zpAlZzPpqXWalsv0JPsVb3SRzuGW8ARHn4Q?purpose=inline)
-
-[GitHub Fine-grained Personal Access Tokens – S4 Help](https://images.openai.com/static-rsc-4/YaRtqaFTFsJx_uRgZgkaCaSx19HIapYgBj32JnMJhud8oBUE0hO2ZnVBssbH1Xk38_8nIWD-vlFIqEs7H-hoYY7RwMnpAQyGZj2ROI4BFDUCfpnAuRBMZ_5tvDBtPtxtFYuE-kp77EGlaf-UM6n9NN4-xnJsgE9F-BmAOKiehlk?purpose=inline)
 
 4
 
 Các bước thực hiện:
 
-1. Truy cập [GitHub](https://github.com?utm_source=chatgpt.com).
+1. Truy cập [GitHub](https://github.com
 2. Nhấn ảnh đại diện → Settings.
 3. Chọn Developer settings ở cuối thanh điều hướng.
 4. Chọn Personal access tokens.
@@ -175,11 +170,7 @@ Lưu ý
 
 ### 3.2. Thu hồi SSH Key
 
-[SSH + Git: What, Why, How, and Where? | by Rajdips | Medium](https://images.openai.com/static-rsc-4/hSnVUxZkoqmD_WnsUpPUfTSPmVI8n7IYAk7bUoEogl4yN6I-DS7AdOPv5mkZM5gomba3yfSTVeGRGqga6UiCdpp3Pec8L5lJA9p9eyRIk_LZJwhoUdSlHD-zWrI1UTCjchCsHJmNUw7CPff64TYIpO2YxUV5QnjAZNkjAx0x4vg?purpose=inline)
 
-[medium.com](https://medium.com/%40rajdips834/ssh-git-what-why-how-and-where-d115537645a8?utm_source=chatgpt.com)
-
-Thực hiện:
 
 1. Mở GitHub → Settings.
 2. Chọn SSH and GPG keys.
@@ -190,9 +181,7 @@ Thực hiện:
 
 ### 3.3. Thu hồi phiên đăng nhập (Session)
 
-[Log out of Github website on a different device - Stack Overflow](https://images.openai.com/static-rsc-4/p-yiruZW7AdEpJfWZQbpHxop0q-2qFySHqdYAe8F93616W7LwLGjlPZt-Jlu_EBWGIPgNZH_8-kQ7FN_uyg-KJ6LwF2RhKqyUXKP70U5dfqwZSfADMcOFYP3eKzDS3lyk-EjNy0LyNKjkvq66rBHEgMFLJD48T2lzuNCp60x5pQ?purpose=inline)
 
-[stackoverflow.com](https://stackoverflow.com/questions/51369478/log-out-of-github-website-on-a-different-device?utm_source=chatgpt.com)
 
 Thực hiện:
 
@@ -206,9 +195,6 @@ Ngoài ra, kiểm tra mục Applications → Authorized OAuth Apps và GitHub Ap
 
 ### 3.4. Bật xác thực hai yếu tố (2FA)
 
-[How to Secure Your GitHub Account With Two-Factor Authentication](https://images.openai.com/static-rsc-4/DdPR6KIPgIziEBMzgy6MUMdWxvA5jcz2lPD7Oxb5Nb52kkEXUzpU33_HeJW11MkcKmrAYS4F5_mZq5TJuheLSQl1tmyYVufQJZbKyuhsXwU5dDD-_13IUkr13SRkivIZy5qXBzWf3qWX_nDxnB0cj2yqH4kMthNuE31VdbNtqT4?purpose=inline)
-
-[techrepublic.com](https://www.techrepublic.com/article/how-to-secure-github-two-factor-authentication/?utm_source=chatgpt.com)
 
 Thực hiện:
 
