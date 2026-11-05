@@ -144,7 +144,7 @@ Kết quả: Máy tính được khôi phục, tài khoản được bảo vệ 
 
 Các bước thực hiện:
 
-1. Truy cập [GitHub](https://github.com
+1. Truy cập [GitHub]https://github.com
 2. Nhấn ảnh đại diện → Settings.
 3. Chọn Developer settings ở cuối thanh điều hướng.
 4. Chọn Personal access tokens.
